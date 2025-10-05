@@ -1,0 +1,12 @@
+Oct 05, 2025 4:51:23 PM LabSheet2.SystemSimulation main
+INFO: System Boot Sequence Initiated
+Oct 05, 2025 4:51:23 PM LabSheet2.SystemSimulation$SystemProcess run
+INFO: Process-2 started
+Oct 05, 2025 4:51:23 PM LabSheet2.SystemSimulation$SystemProcess run
+INFO: Process-1 started
+Oct 05, 2025 4:51:25 PM LabSheet2.SystemSimulation$SystemProcess run
+INFO: Process-1 ended
+Oct 05, 2025 4:51:25 PM LabSheet2.SystemSimulation$SystemProcess run
+INFO: Process-2 ended
+Oct 05, 2025 4:51:25 PM LabSheet2.SystemSimulation main
+INFO: System Shutdown Completed
